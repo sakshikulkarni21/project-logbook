@@ -1,5 +1,5 @@
 # Project Log Book
-Log book for my banking chatbot project
+Log book for  banking chatbot project
 ##   24/02/2025 to 08/03/2025
 
 1. INTRODUCTION :
